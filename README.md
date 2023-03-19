@@ -18,10 +18,12 @@ The aim of this project is to conduct a comprehensive exploration of the PPP loa
 ### **b) Percentage of Foreign Born vs Native Born Population for Top 100 Zip Codes that Received Loans**
 
 **i)**
+
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/70052374/226200980-ddcb80c3-5fb9-47da-bd64-16a7563fd74c.png">
 
 
-**ii)**
+**ii
+
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/70052374/226201001-d8e63e22-9c60-45e0-abcd-d8337770b9a7.png">
 
 
