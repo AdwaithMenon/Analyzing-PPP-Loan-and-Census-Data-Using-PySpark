@@ -44,3 +44,8 @@ The aim of this project is to conduct a comprehensive exploration of the PPP loa
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/70052374/226203857-8d779822-5e1d-47b1-a966-8604f2e79e44.png">
 
 
+* _Among the Top 10 Zip Codes with the Highest Per Capita Amount of Loans for Women Owned Businesses, 5 Zip Codes are in California, 2 in Texas , 1 in New York , 1 in Oregon and 1 in Illinois._
+
+* _The states where these Zip Codes are located are home to major financial institutions that offer high level of support for women-owned businesses. Furthermore, California has the largest number of women-owned businesses, followed by Texas, New York, and Illinois, which is a crucial point to note when we consider Per Capita Amount of Loans for Female Owned Businesses._
+
+
