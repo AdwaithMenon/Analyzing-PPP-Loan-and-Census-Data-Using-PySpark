@@ -35,7 +35,7 @@ The aim of this project is to conduct a comprehensive exploration of the PPP loa
 
 * *An additional factor could be that certain types of loans may have citizenship requirements, particularly for loan amounts above a certain limit. This may limit access to loans for Foreign Nationals who are not U.S. citizens or permanent residents.*
 
-* *The third and perhaps most significant reason is that building a good credit history is crucial for obtaining larger loan amounts. As it takes time to establish a strong credit score, Native people may have an advantage over Foreign Nationals in this regard and may be more likely to have higher credit scores, making them more eligible for larger loans.*
+* *The third and perhaps the most significant reason is that building a good credit history is crucial for obtaining larger loan amounts. As it takes time to establish a strong credit score, Native people may have an advantage over Foreign Nationals in this regard and may be more likely to have higher credit scores, making them more eligible for larger loans.*
 
 
 ### **c)**
