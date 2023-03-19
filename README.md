@@ -38,4 +38,9 @@ The aim of this project is to conduct a comprehensive exploration of the PPP loa
 * *The third and perhaps the most significant reason is that building a good credit history is crucial for obtaining larger loan amounts. As it takes time to establish a strong credit score, Native people may have an advantage over Foreign Nationals in this regard and may be more likely to have higher credit scores, making them more eligible for larger loans.*
 
 
-### **c)**
+### **c) Top 10 Zip Codes with the Highest Per Capita Amount of Loans for Women Owned Businesses**
+
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/70052374/226203857-8d779822-5e1d-47b1-a966-8604f2e79e44.png">
+
+
