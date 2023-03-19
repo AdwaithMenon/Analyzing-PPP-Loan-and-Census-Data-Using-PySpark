@@ -15,7 +15,7 @@ The aim of this project is to conduct a comprehensive exploration of the PPP loa
 * The Top 10 States that received loans are California, New York, Texas, Florida, Illinois, Pennsylvania, Ohio, New Jersey, Michigan and Colorado.
 
 
-### **b) Percentage of Foreign Born vs Native Born Population for Top 100 Zip Codes that received loans**
+### **b) Percentage of Foreign Born vs Native Born Population for Top 100 Zip Codes that Received Loans**
 
 **i)**
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/70052374/226200980-ddcb80c3-5fb9-47da-bd64-16a7563fd74c.png">
